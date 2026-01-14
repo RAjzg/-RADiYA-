@@ -61,11 +61,7 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
  "MintBot cân spam nhưng không có gì đáng để bạn spam."
  ];
  var link = [
- "https://i.postimg.cc/QdgH08j6/Messenger-creation-C2-A39-DCF-A8-E7-4-FC7-8715-2559476-FEEF4.gif",
- "https://i.imgur.com/WXQIgMz.jpeg",
- "https://i.postimg.cc/QdgH08j6/Messenger-creation-C2-A39-DCF-A8-E7-4-FC7-8715-2559476-FEEF4.gif",
- "https://i.imgur.com/WXQIgMz.jpeg",
- "https://i.imgur.com/WXQIgMz.jpeg",
+ "https://i.imgur.com/7jiWooK.jpeg",
  ];
 
  var i = 1;
@@ -157,7 +153,7 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
  "MintBot cân spam nhưng không có gì đáng để bạn spam."
  ];
  var link = [
- "https://i.imgur.com/rDje9ee.jpeg",
+"https://i.imgur.com/7jiWooK.jpeg",
  ]; 
  var i = 1;
  var msg = [];
@@ -180,14 +176,14 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
  api.sendMessage({ body: 
  `🍀----আসসালামু আলাইকুম----🍀
 
-┏━━•❅•••❈•••❈•••❅•━━┓\n\n「 ${namebot} 」\n\n┗━━•❅•••❈•••❈•••❅•━━┛ \n\n______________________________\n\n↓↓_𝗥𝗢𝗕𝗢𝗧 𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗙𝗢_↓↓\n\n» 𝗣𝗿𝗲𝗳𝗶𝘅 𝘀𝘆𝘀𝘁𝗲𝗺: ${PREFIX}\n\n» 𝗣𝗿𝗲𝗳𝗶𝘅 𝗯𝗼𝘅: ${prefix}\n\n» 𝗧𝗼𝘁𝗮𝗹 𝗠𝗼𝗱𝘂𝗹𝗲𝘀: ${commands.size}\n\n» 𝗣𝗶𝗻𝗴: ${Date.now() - dateNow}ms\n______________________________\n\n ↓↓_𝗥𝗢𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢_↓↓\n\n 
+┏━━•❅•••❈•••❈•••❅•━━┓\n\n「 ${namebot} 」\n\n┗━━•❅•••❈•••❈•••❅•━━┛ \n\n______________________________\n\n↓↓_𝐙𝐍 𝐉𝐇𝐈𝐌𝐀 𝐒𝐄𝐒𝐘𝐓𝐄𝐌 𝐈𝐍𝐅𝐎_↓↓\n\n» 𝗣𝗿𝗲𝗳𝗶𝘅 𝘀𝘆𝘀𝘁𝗲𝗺: ${PREFIX}\n\n» 𝗣𝗿𝗲𝗳𝗶𝘅 𝗯𝗼𝘅: ${prefix}\n\n» 𝐓𝐎𝐓𝐒𝐋 𝐌𝐎𝐃𝐔𝐋𝐄𝐒:➪ ${commands.size}\n\n» 𝐏𝐈𝐍𝐊: ${Date.now() - dateNow}ms\n______________________________\n\n ↓↓_𝐙𝐍 𝐉𝐇𝐔𝐌𝐀 𝐎𝐖𝐍𝐄𝐑 𝐈𝐍𝐅𝐎_↓↓\n\n 
 NAME    :〲 নূৰ নবী 卝 চৌধুৰী ཐི༏ཋྀ࿐
 
 FACEBOOK:https://www.facebook.com/RAJA.ViP.5X.01715559179
 
 WHATAPP :01715559179
 
-______________________________\n\n----↓↓𝙍𝙤𝙗𝙤𝙩 𝙖𝙘𝙩𝙞𝙫𝙚 𝙩𝙞𝙢𝙚↓↓----\n\n ${hours} : ${minutes} : ${seconds} second(s)\n\n______________________________\n» 𝗧𝗢𝗧𝗔𝗟 𝗨𝗦𝗘𝗥𝗦: ${global.data.allUserID.length} \n\n» 𝗧𝗢𝗧𝗔𝗟 𝗚𝗥𝗢𝗨𝗣: ${global.data.allThreadID.length}\n______________________________\n\n thanks for using \n 𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 
+______________________________\n\n----↓↓𝐙𝐍 𝐉𝐇𝐔𝐌𝐀 𝐀𝐂𝐓𝐈𝐕𝐄 𝐓𝐈𝐌𝐄:➪↓↓----\n\n ${hours} : ${minutes} : ${seconds} second(s)\n\n______________________________\n» 𝐓𝐎𝐓𝐀𝐋 𝐔𝐒𝐄𝐑𝐒:➪ ${global.data.allUserID.length} \n\n» 𝐓𝐎𝐓𝐀𝐋 𝐆𝐑𝐎𝐔𝐏:➪ ${global.data.allThreadID.length}\n______________________________\n\n 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐔𝐒𝐈𝐍𝐆\n 𝐌𝐃:𝐍𝐔𝐑𝐍𝐎𝐁𝐈 𝐇𝐀𝐐𝐔𝐄 
 \n--------------------------------------------------\n\n☢️☣️⚠️`, attachment: fs.createReadStream(__dirname + "/cache/kensu.jpg"), }, event.threadID, () => fs.unlinkSync(__dirname + "/cache/kensu.jpg"));
  return request(encodeURI(link[Math.floor(Math.random() * link.length)])).pipe(fs.createWriteStream(__dirname + "/cache/kensu.jpg")).on("close", () => callback()); 
  }
